@@ -1,9 +1,9 @@
 .bodyBG{
     background-color: rgba(147, 101, 41, 0.479);
-    font-family: "Josefin Sans", serif;
-    font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
+  font-family: "Josefin Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
 }
 nav > ul > li {
     display: inline-flex;
