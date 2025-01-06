@@ -1,0 +1,23 @@
+.bodyBG{
+    background-color: rgba(147, 101, 41, 0.479);
+}
+nav > ul > li {
+    display: inline-flex;
+    margin-right: 50px;
+}
+nav ul li > a {
+    text-decoration: none;
+    color: brown;
+}
+main article > figure, article, footer{
+    text-align: center;
+}
+nav{
+    text-align: center;
+}
+.imgsetup{
+    width: 35%;
+    border: 3px rgba(84, 50, 6, 0.479) solid;
+    border-radius: 200px;
+
+}
